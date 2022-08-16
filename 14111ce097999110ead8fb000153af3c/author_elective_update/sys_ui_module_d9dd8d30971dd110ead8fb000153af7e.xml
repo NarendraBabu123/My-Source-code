@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="DELETE">
+        <active>true</active>
+        <application display_value="Self-Service">c4b9454847210100ba13a5554ee490ca</application>
+        <filter/>
+        <name>My New Tables</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>admin</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>NarendraBabu.Madala</sys_created_by>
+        <sys_created_on>2022-08-11 08:48:12</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d9dd8d30971dd110ead8fb000153af7e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My New Tables</sys_name>
+        <sys_package display_value="Hello ServiceNow" source="x_853096_hello_ser">14111ce097999110ead8fb000153af3c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hello ServiceNow">14111ce097999110ead8fb000153af3c</sys_scope>
+        <sys_update_name>sys_ui_module_d9dd8d30971dd110ead8fb000153af7e</sys_update_name>
+        <sys_updated_by>NarendraBabu.Madala</sys_updated_by>
+        <sys_updated_on>2022-08-11 08:48:12</sys_updated_on>
+        <table>x_853096_hello_ser_my_new_table</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Hello ServiceNow">14111ce097999110ead8fb000153af3c</application>
+        <file_path/>
+        <instance_id>2946c894db9504d49df22f17d4961909</instance_id>
+        <instance_name>dev94959</instance_name>
+        <name>sys_ui_module_d9dd8d30971dd110ead8fb000153af7e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module"><sys_ui_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Self-Service">c4b9454847210100ba13a5554ee490ca</application><filter/><name>My New Tables</name><order/><path/><path_relative_to_root>false</path_relative_to_root><roles>admin</roles><sys_class_name>sys_ui_module</sys_class_name><sys_created_by>NarendraBabu.Madala</sys_created_by><sys_created_on>2022-08-11 08:48:12</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>d9dd8d30971dd110ead8fb000153af7e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>My New Tables</sys_name><sys_package display_value="Hello ServiceNow" source="x_853096_hello_ser">14111ce097999110ead8fb000153af3c</sys_package><sys_policy/><sys_scope display_value="Hello ServiceNow">14111ce097999110ead8fb000153af3c</sys_scope><sys_update_name>sys_ui_module_d9dd8d30971dd110ead8fb000153af7e</sys_update_name><sys_updated_by>NarendraBabu.Madala</sys_updated_by><sys_updated_on>2022-08-11 08:48:12</sys_updated_on><table>x_853096_hello_ser_my_new_table</table><uncancelable>false</uncancelable><view_name/></sys_ui_module></record_update>]]></payload>
+        <payload_hash>-1486949343</payload_hash>
+        <record_name>My New Tables</record_name>
+        <reverted_from/>
+        <source>55dd8d30971dd110ead8fb000153af7c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>NarendraBabu.Madala</sys_created_by>
+        <sys_created_on>2022-08-11 08:48:12</sys_created_on>
+        <sys_id>d9dd4d70971dd110ead8fb000153af2d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1828c16fc0d0000001</sys_recorded_at>
+        <sys_updated_by>NarendraBabu.Madala</sys_updated_by>
+        <sys_updated_on>2022-08-11 08:48:12</sys_updated_on>
+        <type>Module</type>
+        <update_guid>15dd4d70821dd110be54b59b4920c02d</update_guid>
+        <update_guid_history>15dd4d70821dd110be54b59b4920c02d:-1486949343</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>NarendraBabu.Madala</sys_created_by>
+        <sys_created_on>2022-08-11 09:00:17</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_module">sys_ui_module</sys_db_object>
+        <sys_id>3eecabb6fea047d09b6a1bd66e8b1100</sys_id>
+        <sys_metadata>d9dd8d30971dd110ead8fb000153af7e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My New Tables</sys_name>
+        <sys_package display_value="Hello ServiceNow" source="x_853096_hello_ser">14111ce097999110ead8fb000153af3c</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Hello ServiceNow">14111ce097999110ead8fb000153af3c</sys_scope>
+        <sys_scope_delete display_value="">2d048440cbe64fa8a2b77fe8b1132240</sys_scope_delete>
+        <sys_update_name>sys_ui_module_d9dd8d30971dd110ead8fb000153af7e</sys_update_name>
+        <sys_update_version display_value="sys_ui_module_d9dd8d30971dd110ead8fb000153af7e">d9dd4d70971dd110ead8fb000153af2d</sys_update_version>
+        <sys_updated_by>NarendraBabu.Madala</sys_updated_by>
+        <sys_updated_on>2022-08-11 09:00:17</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

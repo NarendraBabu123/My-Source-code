@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_853096_hello_ser_needit">x_853096_hello_ser_needit</category>
+        <maximum_digits>6</maximum_digits>
+        <number>2000</number>
+        <prefix>NI</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>NarendraBabu.Madala</sys_created_by>
+        <sys_created_on>2022-08-11 08:58:09</sys_created_on>
+        <sys_id>83101134971dd110ead8fb000153afaa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NI</sys_name>
+        <sys_package display_value="Hello ServiceNow" source="x_853096_hello_ser">14111ce097999110ead8fb000153af3c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hello ServiceNow">14111ce097999110ead8fb000153af3c</sys_scope>
+        <sys_update_name>sys_number_83101134971dd110ead8fb000153afaa</sys_update_name>
+        <sys_updated_by>NarendraBabu.Madala</sys_updated_by>
+        <sys_updated_on>2022-08-11 08:58:09</sys_updated_on>
+    </sys_number>
+</record_update>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>NarendraBabu.Madala</sys_created_by>
+        <sys_created_on>2022-08-11 08:48:13</sys_created_on>
+        <sys_id>55dd4d70971dd110ead8fb000153af37</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_853096_hello_ser_my_new_table.admin</sys_name>
+        <sys_package display_value="Hello ServiceNow" source="x_853096_hello_ser">14111ce097999110ead8fb000153af3c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hello ServiceNow">14111ce097999110ead8fb000153af3c</sys_scope>
+        <sys_security_acl display_value="x_853096_hello_ser_my_new_table">5ddd4d70971dd110ead8fb000153af34</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_55dd4d70971dd110ead8fb000153af37</sys_update_name>
+        <sys_updated_by>NarendraBabu.Madala</sys_updated_by>
+        <sys_updated_on>2022-08-11 08:48:13</sys_updated_on>
+        <sys_user_role display_value="admin" name="admin">2831a114c611228501d4ea6c309d626d</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Hello ServiceNow">14111ce097999110ead8fb000153af3c</application>
+        <file_path/>
+        <instance_id>2946c894db9504d49df22f17d4961909</instance_id>
+        <instance_name>dev94959</instance_name>
+        <name>sys_security_acl_role_55dd4d70971dd110ead8fb000153af37</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>NarendraBabu.Madala</sys_created_by><sys_created_on>2022-08-11 08:48:13</sys_created_on><sys_id>55dd4d70971dd110ead8fb000153af37</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_853096_hello_ser_my_new_table.admin</sys_name><sys_package display_value="Hello ServiceNow" source="x_853096_hello_ser">14111ce097999110ead8fb000153af3c</sys_package><sys_policy/><sys_scope display_value="Hello ServiceNow">14111ce097999110ead8fb000153af3c</sys_scope><sys_security_acl display_value="x_853096_hello_ser_my_new_table">5ddd4d70971dd110ead8fb000153af34</sys_security_acl><sys_update_name>sys_security_acl_role_55dd4d70971dd110ead8fb000153af37</sys_update_name><sys_updated_by>NarendraBabu.Madala</sys_updated_by><sys_updated_on>2022-08-11 08:48:13</sys_updated_on><sys_user_role display_value="admin" name="admin">2831a114c611228501d4ea6c309d626d</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>1773812834</payload_hash>
+        <record_name>x_853096_hello_ser_my_new_table.admin</record_name>
+        <reverted_from/>
+        <source>55dd8d30971dd110ead8fb000153af7c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>NarendraBabu.Madala</sys_created_by>
+        <sys_created_on>2022-08-11 08:48:13</sys_created_on>
+        <sys_id>9ddd4d70971dd110ead8fb000153af45</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1828c16fce20000001</sys_recorded_at>
+        <sys_updated_by>NarendraBabu.Madala</sys_updated_by>
+        <sys_updated_on>2022-08-11 08:48:13</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>d5dd4d70e01dd110f4cfe7d5a1f44e45</update_guid>
+        <update_guid_history>d5dd4d70e01dd110f4cfe7d5a1f44e45:1773812834</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_853096_hello_ser_my_new_table.admin">35901934971dd110ead8fb000153af92</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>NarendraBabu.Madala</sys_created_by>
+        <sys_created_on>2022-08-11 09:00:15</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>4e050c3f04ae4040b383c223527edc79</sys_id>
+        <sys_metadata>55dd4d70971dd110ead8fb000153af37</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_853096_hello_ser_my_new_table.admin</sys_name>
+        <sys_package display_value="Hello ServiceNow" source="x_853096_hello_ser">14111ce097999110ead8fb000153af3c</sys_package>
+        <sys_parent display_value="">5ddd4d70971dd110ead8fb000153af34</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Hello ServiceNow">14111ce097999110ead8fb000153af3c</sys_scope>
+        <sys_scope_delete display_value="">2d048440cbe64fa8a2b77fe8b1132240</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_55dd4d70971dd110ead8fb000153af37</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_55dd4d70971dd110ead8fb000153af37">9ddd4d70971dd110ead8fb000153af45</sys_update_version>
+        <sys_updated_by>NarendraBabu.Madala</sys_updated_by>
+        <sys_updated_on>2022-08-11 09:00:15</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
